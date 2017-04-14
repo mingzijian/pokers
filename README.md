@@ -1,6 +1,7 @@
 # pokers for robot or AI research
 
-You can edit this client for game robot AI research.
+You can edit this client for game robot AI research,
+the websoket api in texasJS/message.js.
 
 Texas Holdem Poker and three card poker games client. 
 
@@ -13,6 +14,8 @@ You can see this project at this website below.
 http://120.26.217.116:8080/texas/texasIndex.html. 
 
 德州扑克的客户端代码， 
+
+可以根据texasJS/message.js文件中的websocket方式访问，编写自己的机器人用于人工智能研究
 
 包含了德州扑克和欢乐拼三张2个游戏的客户端部分。 
 
