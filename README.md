@@ -1,9 +1,12 @@
-# pokers
-texas holdem poker and three card poker games. 
+# pokers for robot or AI research
+
+You can edit this client for game robot AI research.
+
+Texas Holdem Poker and three card poker games client. 
 
 A poker client useing html,jquery,websocket,canvas. 
 
-Only contains login,regist,three basic play rooms,chips rank. 
+Only contains login,regist,three basic play rooms,user's chips rank. 
 
 You can see this project at this website below. 
 
